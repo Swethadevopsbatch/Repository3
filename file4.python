@@ -1,0 +1,27 @@
+this is fourth python file
+%%html
+<html>
+<body>
+<h3>Student Marks</h3>
+<table>
+        <tr>
+            <th>Name</th>
+            <th>Roll</th>
+            <th>Age</th>
+            <th>Marks</th>
+        </tr>
+        <tr>
+            <td>Chaitanya</td>
+            <td>12</td>
+            <td>14</td>
+            <td>93</td>
+        </tr>
+        <tr>
+            <td>Karan</td>
+            <td>13</td>
+            <td>15</td>
+            <td>92</td>
+        </tr>
+</table>
+</body>
+</html>
