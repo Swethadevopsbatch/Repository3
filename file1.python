@@ -1,0 +1,6 @@
+this is first python file
+%%writefile my_file.py
+
+# Function to return sum of two numbers
+def sum_num(a,b):
+    return a+b
