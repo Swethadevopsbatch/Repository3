@@ -1,0 +1,6 @@
+this is second python file
+%%writefile -a my_file.py
+
+# Function to return diff of two numbers
+def diff_num(a,b):
+    return a-b
