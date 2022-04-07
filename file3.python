@@ -1,0 +1,9 @@
+this is third python
+roll_number = 12
+name = 'Chaitanya Baweja'
+age = 14
+
+%who
+
+# Output
+# age name roll_number
